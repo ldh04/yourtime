@@ -7,7 +7,7 @@
 
 **[📥 최신 버전 받기 (APK)](https://github.com/ldh04/yourtime/raw/main/yourtime.apk)**
 
-지금 버전: 1.0.15
+지금 버전: 1.0.16
 
 > 안드로이드 8.0 이상에서 쓸 수 있어요. 아이폰은 지원하지 않아요.
 
